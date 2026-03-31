@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnendu</h1>
-<h3 align="center">📊 Data Analyst | Advanced Excel | SQL Specialist | Power BI & Tableau Developer</h3>
+<h3 align="center">📊 Data Analyst | Advanced Excel | SQL Specialist | Power BI, Tableau & Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishnendu-Bachhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,9 +9,10 @@
 
 ## 🚀 About Me
 - 🎯 Turning **raw data into actionable business insights**
-- 📊 Strong in **SQL, Power BI, Tableau, Excel & Data Visualization**
+- ⚡ Skilled in **Polars (high-performance data processing), SQL, Power BI, Tableau, Excel & Python**
+- 📊 Strong in **data manipulation, visualization & analytics workflows**
 - 📈 Built real-world projects in **Customer Analytics & Retention**
-- 🤖 Currently transitioning into **AI driven Analytics**
+- 🤖 Currently transitioning into **AI-driven Analytics**
 - 💡 Focused on **high-impact, real-world problem solving**
 
 ---
@@ -20,11 +21,17 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Polars-High%20Performance%20Data-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Tableau-Visualization-blue?style=for-the-badge&logo=tableau"/>
 <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-teal?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-Expert-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DAX-Power%20BI-critical?style=for-the-badge"/>
 
@@ -34,7 +41,7 @@
 
 ## 📌 Featured Projects
 
-### 📊 Banking Data Analytics Dashboard
+### 📊 Banking Data Analytics Dashboard (Power BI)
 - 📈 Interactive dashboard built in **Power BI**
 - 🧠 Analyzed customer trends, KPIs & financial insights
 - 🗄️ SQL used for data extraction & transformation
@@ -45,6 +52,14 @@
 - 🔍 Built cohort analysis using **advanced SQL**
 - 📊 Segmented users based on purchase behavior
 - 💡 Identified repeat vs churn patterns
+
+---
+
+### 📊 Sales & Business Insights Dashboard (Excel)
+- 📊 Built dynamic dashboard using **Pivot Tables & Charts**
+- 🧹 Performed **data cleaning & transformation in Excel**
+- 📈 Analyzed sales trends, KPIs & performance metrics
+- 💡 Generated actionable business insights
 
 ---
 
@@ -67,10 +82,11 @@
 ## 🧭 Learning Roadmap
 
 - 🔄 Advanced SQL Optimization   
-- 📈 Advanced Excel with Pivot Analysis
+- ⚡ High-performance Data Processing (Polars)  
+- 🐍 Python for Data Analysis  
+- 🤖 AI-driven Analytics  
 - 📊 Advanced Data Visualization  
 - 🚀 End-to-End Data Projects  
-- 🐍 Python for Data Analysis 
 
 ---
 
@@ -88,4 +104,4 @@
 ---
 
 ## ⚡ Fun Fact
-I don’t just analyze data — I **tell stories that drive decisions** 📊✨
+I don’t just analyze data — I **optimize it for performance too** ⚡📊
