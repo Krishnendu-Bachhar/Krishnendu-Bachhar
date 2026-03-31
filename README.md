@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnendu</h1>
-<h3 align="center">📊 Data Analyst | SQL Specialist | Power BI Developer </h3>
+<h3 align="center">📊 Data Analyst | SQL Specialist | Power BI & Tableau Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishnendu-Bachhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎯 Turning **raw data into actionable business insights**
-- 📊 Strong in **SQL, Power BI, Excel & Data Visualization**
+- 📊 Strong in **SQL, Power BI, Tableau, Excel & Data Visualization**
 - 📈 Built real-world projects in **Customer Analytics & Retention**
 - 🤖 Currently transitioning into **AI & Machine Learning**
 - 💡 Focused on **high-impact, real-world problem solving**
@@ -22,6 +22,7 @@
 
 <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-yellow?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-Visualization-blue?style=for-the-badge&logo=tableau"/>
 <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-Expert-purple?style=for-the-badge"/>
@@ -50,15 +51,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnendu-Bachhar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnendu-Bachhar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnendu-Bachhar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -70,12 +71,13 @@
 - 📊 Advanced Data Visualization  
 - 🚀 End-to-End Data Projects  
 - 🐍 Python for Data Analysis 
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/krishnendu-bachhar-0a66282a5">
+  <a href="https://www.linkedin.com/in/krishnendu-bachhar-0a66282a5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:krishnendubachhar217@gmail.com">
