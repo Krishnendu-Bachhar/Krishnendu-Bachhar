@@ -11,7 +11,7 @@
 - 🎯 Turning **raw data into actionable business insights**
 - 📊 Strong in **SQL, Power BI, Tableau, Excel & Data Visualization**
 - 📈 Built real-world projects in **Customer Analytics & Retention**
-- 🤖 Currently transitioning into **AI & Machine Learning**
+- 🤖 Currently transitioning into **AI driven Analytics**
 - 💡 Focused on **high-impact, real-world problem solving**
 
 ---
