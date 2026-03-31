@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnendu</h1>
-<h3 align="center">📊 Data Analyst | SQL Specialist | Power BI & Tableau Developer</h3>
+<h3 align="center">📊 Data Analyst | Advanced Excel | SQL Specialist | Power BI & Tableau Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishnendu-Bachhar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
@@ -67,7 +67,7 @@
 ## 🧭 Learning Roadmap
 
 - 🔄 Advanced SQL Optimization   
-- 🤖 Machine Learning & AI  
+- 📈 Advanced Excel with Pivot Analysis
 - 📊 Advanced Data Visualization  
 - 🚀 End-to-End Data Projects  
 - 🐍 Python for Data Analysis 
