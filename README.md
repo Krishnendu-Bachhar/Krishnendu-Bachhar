@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 Sales & Business Insights Dashboard (Excel)
+# 📊 Transaction & Customer Behavior Analysis using Excel (1M+ Records)
 - 📊 Built dynamic dashboard using **Pivot Tables & Charts**
 - 🧹 Performed **data cleaning & transformation in Excel**
 - 📈 Analyzed sales trends, KPIs & performance metrics
