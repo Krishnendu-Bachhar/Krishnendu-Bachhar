@@ -66,17 +66,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnendu-Bachhar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishnendu-Bachhar&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnendu-Bachhar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
