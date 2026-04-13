@@ -28,12 +28,13 @@
 <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-teal?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-Expert-purple?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DAX-Power%20BI-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT,%20Claude,%20Genmini,%20Grok-AI%20Assisted%20Analystics-navy?style=for-the-badge"/>
 
 </p>
 
@@ -55,7 +56,7 @@
 
 ---
 
-# 📊 Transaction & Customer Behavior Analysis using Excel (1M+ Records)
+### 📊 Transaction & Customer Behavior Analysis using Excel (1M+ Records)
 - 📊 Built dynamic dashboard using **Pivot Tables & Charts**
 - 🧹 Performed **data cleaning & transformation in Excel**
 - 📈 Analyzed sales trends, KPIs & performance metrics
